@@ -37,7 +37,9 @@ Per ottenere i migliori risultati, si consigliano le seguenti impostazioni di st
 ## 📸 Galleria
 
 *(Puoi inserire qui i link alle tue immagini per mostrarle direttamente nel README)*
-![Door Lock Panel](images/A3xx%20Door%20Lock%20Panel.jpeg)
+![Door Lock Panel](images/A3xx Door Lock Panel.jpeg)
+![Door Lock Panel](images/cockpit-door.webp)
+
 
 ## 📄 Licenza
 
