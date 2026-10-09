@@ -13,7 +13,7 @@ dimensione_font = 3.0;
 
 // --- CALCOLO PROFONDITÀ ---
 // Imposta automaticamente la profondità della scritta all'80% dello spessore (2.4 mm)
-profondita_scritta = spessore_totale * 0.80;
+profondita_scritta = spessore_totale * 0.90;
 
 // Calcola lo scostamento sull'asse Y per distribuire le scritte
 distanza_y = larghezza / 4; 
